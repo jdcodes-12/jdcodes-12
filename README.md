@@ -8,6 +8,7 @@ Here's a little about me:
 - 📚 I’m currently learning more about:
     - ☁️ cloud-native ecosystem (Docker + Kubernetes)
     - 🔨 CI/CD pipelines (using GitHub Actions)
+    - 🔌 building industry-standard APIs
 - ⚡ Fun fact: I used to play college soccer ⚽️
 - 🔭 Actively looking for more development community
   
