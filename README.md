@@ -1,16 +1,15 @@
 # Hey there, I'm Johnny 👋🏼
 
-A software developer passionate about building useful things. Currently I am focused on backend web develoment using Java
-and the Spring framework. Lately, I have been having a blast writing web APIs and learning about API best practices.
+A software developer passionate about building useful things. 
 
 Here's a little about me:
 - 💻 I’m currently working on a personal finance application called Froogal
 - 📚 I’m currently learning more about:
     - ☁️ cloud-native ecosystem (Docker + Kubernetes)
-    - 🔨 CI/CD pipelines (using GitHub Actions)
+    - 🔨 CI/CD pipelines (using GitHub Actions, Jenkins)
     - 🔌 building industry-standard APIs
 - ⚡ Fun fact: I used to play college soccer ⚽️
-- 🔭 Actively looking for more development community
+- 🔭 Actively looking for more development community. 
   
 ---
 ## 🧰 Inside My Toolbox
