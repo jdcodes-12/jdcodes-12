@@ -5,9 +5,8 @@ A software developer passionate about building useful things.
 Here's a little about me:
 - 💻 I’m currently working on a personal finance application called Froogal
 - 📚 I’m currently learning more about:
-    - ☁️ cloud-native ecosystem (Docker + Kubernetes)
     - 🔨 CI/CD pipelines (using GitHub Actions, Jenkins)
-    - 🔌 building industry-standard APIs
+    - 🔌 building industry-standard web APIs
 - ⚡ Fun fact: I used to play college soccer ⚽️
 - 🔭 Actively looking for more development community. 
   
