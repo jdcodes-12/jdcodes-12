@@ -3,7 +3,7 @@
 A software/web developer passionate about building useful things. 
 
 Here's a little about me:
-- 💻 I’m currently working on a personal finance application called Froogal.
+- 💻 I’m currently working on a personal finance web application called Froogal.
 - 📚 I’m currently learning more about:
     - 🔨 CI/CD pipelines (using GitHub Actions, Jenkins)
     - 🔌 building industry-standard web APIs
