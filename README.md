@@ -6,7 +6,8 @@ Here's a little about me:
 - 💻 I’m currently working on a personal finance web application called Froogal.
 - 📚 I’m currently learning more about:
     - 🔨 CI/CD pipelines (using GitHub Actions, Jenkins)
-    - 🔌 building industry-standard web APIs (REST)
+    - 🔌 building industry-standard web REST APIs
+    - 🌐 exploring various Web API paradigms (WebSockets, WebHooks, RPC) 
 - ⚡ Fun fact: I used to play college soccer ⚽️
 - 🔭 Actively looking for more development community. 
   
