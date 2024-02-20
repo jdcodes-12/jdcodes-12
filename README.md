@@ -1,6 +1,6 @@
 # Hey there, I'm Johnny 👋🏼
 
-A software/web developer passionate about building useful things.
+A software developer building useful things.
 
 Here's a little about me:
 - 💻 I’m currently working on community learning repository called the SWE Toolkit
